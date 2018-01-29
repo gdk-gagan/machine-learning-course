@@ -1,2 +1,2 @@
 # machine-learning-course
-ECE-590
+ECE590: Introductory Machine Learning for Data Science
